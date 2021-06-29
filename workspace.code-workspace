@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\vorlage-fuer-2.4"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Modul_291"
+	}
+}
